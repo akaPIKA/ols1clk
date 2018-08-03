@@ -66,7 +66,7 @@ WPLANGUAGE=en
 WPUSER=wpuser
 WPTITLE=MySite
 
-SITEDOMAIN=*
+SITEDOMAIN=filebear.net
 EMAIL=
 
 #All lsphp versions, keep using two digits to identify a version!!!
